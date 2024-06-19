@@ -12,7 +12,7 @@ const ContactPage = () => {
   ];
 
   return (
-    <section id="contact-me" className="max-w-8xl mx-auto p-6 min-h-[20vh] overflow-auto" style={{backgroundColor:"gray"}}>
+    <section id="contact" className="max-w-8xl mx-auto p-6 min-h-[20vh] overflow-auto" style={{backgroundColor:"gray"}}>
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}

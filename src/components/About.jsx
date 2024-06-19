@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom'
 
 const About = () => {
   return (
-    <div className="text-white h-1/2 p-8" style={{ backgroundColor: 'gray' }}>
+    <div id='about' className="text-white h-1/2 p-8" style={{ backgroundColor: 'gray' }}>
       <section className="max-w-4xl mx-auto">
         <h1 className="text-5xl text-gray-800 font-bold mb-4">About Me</h1>
         <div className='font-medium'>
